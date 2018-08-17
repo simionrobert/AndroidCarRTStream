@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intelligent Machine</string>
+    <string name="ip_input">Introdu Adresa IP</string>
+    <string name="done">Done</string>
+</resources>
